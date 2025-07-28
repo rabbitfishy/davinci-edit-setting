@@ -1,0 +1,6 @@
+INSTRUCTIONS
+
+Open Davinci Resolve and navigate to the Color Page
+Below Gallery is a box called "Still Albums"
+Select "PowerGrade" and import the .drx files
+
