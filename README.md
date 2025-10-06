@@ -12,6 +12,7 @@ You need to put 15 frames in between your initial kill point, front and back.
 ![camera_shake_2_motion_blur](/../../../../rabbitfishy/davinci-edit-setting/blob/main/camera_shake_2_motion_blur.PNG)<br>
 ![screen_pump](/../../../../rabbitfishy/davinci-edit-setting/blob/main/screen_pump.PNG)<br>
 ![flicker_fx](/../../../../rabbitfishy/davinci-edit-setting/blob/main/flicker_fx.PNG)<br>
+![simple color correction](/../../../../rabbitfishy/davinci-edit-setting/blob/main/simple%20color%20correction.PNG)<br>
 
 # Export Setting
 ![youtube_export_setting_1](/../../../../rabbitfishy/davinci-edit-setting/blob/main/youtube_export_setting_1.PNG)<br>
