@@ -6,7 +6,7 @@ This is my personal editing settings.
 For the fast to slow velocity effect.<br>
 You need to put 15 frames in between your initial kill point, front and back.
 ![fast to slow velocity](/../../../../rabbitfishy/davinci-edit-setting/blob/main/fast%20to%20slow%20velocity%20effect.PNG)<br>
-![camera_shake_1](/../../../../rabbitfishy/davinci-edit-setting/blob/main/camera_shake_2.PNG)<br>
+![camera_shake_1](/../../../../rabbitfishy/davinci-edit-setting/blob/main/new%20cam%20shake%201.PNG)<br>
 ![camera_shake_2](/../../../../rabbitfishy/davinci-edit-setting/blob/main/camera_shake_1.PNG)<br>
 ![screen_pump](/../../../../rabbitfishy/davinci-edit-setting/blob/main/screen_pump.PNG)<br>
 ![flicker_fx](/../../../../rabbitfishy/davinci-edit-setting/blob/main/flicker_fx.PNG)<br>
